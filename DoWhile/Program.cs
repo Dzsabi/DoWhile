@@ -139,6 +139,8 @@ namespace DoWhile
                 }
             } while (valasztas != 3);
 
+            Console.WriteLine("Program vége!");
+
 
 
 
